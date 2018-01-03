@@ -1,3 +1,6 @@
 In this chapter on experimental design, the main statistical program is power analysis.
 
 The use of power analysis is usually underestimated for many practitioners, although it is very important especially when replication crisis emerges recently.
+
+The implementation with R:
+The reference is https://www.statmethods.net/stats/power.html.
